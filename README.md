@@ -18,14 +18,14 @@ The aim of this project is to conduct a comprehensive analysis of Blinkit's sale
 
 ## Summary of Insights
 
-### Sales Performance:
+### 🔰Sales Performance:
 - Total Sales amount to $1.20M, with an Average Sale per transaction of $141.
 - The number of Items Sold is 8,523, indicating a broad inventory turnover.
 
-### Customer Satisfaction:
+### 🔰Customer Satisfaction:
 - The Average Rating stands at 3.9, suggesting a satisfactory customer experience with potential for improvement.
 
-### Outlet Analysis:
+### 🔰Outlet Analysis:
 - <b>Outlet Establishment Trends</b> show consistent growth in sales, reaching $131K in recent years.
 
 - <b>Outlet Size Contribution: </b>
@@ -37,7 +37,7 @@ The aim of this project is to conduct a comprehensive analysis of Blinkit's sale
 - <b>Outlet Type: </b>
    - Supermarkets lead with $788K in sales, followed by Grocery Stores at $152K.
  
-### Product Analysis:
+### 🔰Product Analysis:
 - <b>Item Type Sales:</b>
   - The fruits & vegetables and Snack Foods categories are top sellers, each generating around $180K.
   - The household category of item type and the Frozen Food category of item type also perform well, with approximately $140K and $120K, respectively.
