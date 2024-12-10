@@ -11,7 +11,8 @@
 
 ## Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/9ee4b7ac-702a-46c7-bc59-8f3c879a4ece)
+![image](https://github.com/user-attachments/assets/103fbee0-2f9a-4ae6-aa31-419522b7d7ed)
+
 
 ## Overview
 This analysis aimed to provide a detailed evaluation of Blinkit's sales performance, customer satisfaction, and inventory distribution, uncovering key insights and optimization opportunities through various KPIs and visualizations in PowerBI.
