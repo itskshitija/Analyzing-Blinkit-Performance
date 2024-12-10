@@ -42,6 +42,10 @@ The aim of this project is to conduct a comprehensive analysis of Blinkit's sale
   - The fruits & vegetables and Snack Foods categories are top sellers, each generating around $180K.
   - The household category of item type and the Frozen Food category of item type also perform well, with approximately $140K and $120K, respectively.
 - <b>Fat Content:</b>
-  - Low-fat category products contribute $776.32K, while regular fat products account for $425.36K.
+  - Low-Fat products dominate sales, generating $776.32K, which indicates a stronger customer preference for healthier, lower-fat options
+  - Regular fat items contribute $425.36K to total sales. Though less popular than low-fat options, they still hold a significant share, suggesting there is demand for a variety of fat content levels.
 - <b>Fat Content by Outlet Location:</b>
   - Tier 3 outlets have the highest sales for both low-fat category products and Regular Fat category products, reinforcing their impact across product categories.
+- <b>Implications for inventory: </b>
+  - Stocking more low-fat products, especially in popular categories like snack foods or dairy, could cater to customer demand and increase sales.
+  - Regular fat items should still be maintained for customer segments that prefer them, especially in Tier 2 and Tier 3 locations where demand is highest.
