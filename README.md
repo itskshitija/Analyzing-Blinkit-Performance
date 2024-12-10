@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/9ee4b7ac-702a-46c7-bc59-8f3c879a4ece)
 
 ## Overview
-
+The aim of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights into the Blinkit's data.
 
 ## Summary of Insights
 
