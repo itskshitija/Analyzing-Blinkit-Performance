@@ -19,7 +19,7 @@ This analysis aimed to provide a detailed evaluation of Blinkit's sales performa
 ## Summary of Insights
 
 ### 🔰Sales Performance:
-- Total Sales amount to $1.20M, with an Average Sale per transaction of $141.
+- Total Sales amount to $1.20M, with an Average Sale of $141.
 - The number of Items Sold is 8,523, indicating a broad inventory turnover.
 
 ### Outlet Establishment Trends
