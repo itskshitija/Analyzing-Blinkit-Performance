@@ -23,7 +23,7 @@ This analysis aimed to provide a detailed evaluation of Blinkit's sales performa
 - Total Sales amount to $1.20M, with an Average Sale of $141.
 - The number of Items Sold is 8,523, indicating a broad inventory turnover.
 
-### Outlet Establishment Trends
+### 🔰Outlet Establishment Trends
 - <b>Sales Growth Over Time:</b>
 Starting around 2012, the sales values show a gradual but steady increase through the years, indicating consistent growth in the outlet’s customer base and/or market presence.
 
