@@ -13,3 +13,13 @@ This analysis aimed to provide a detailed evaluation of Blinkit's sales performa
 
 ![image](https://github.com/user-attachments/assets/103fbee0-2f9a-4ae6-aa31-419522b7d7ed)
 
+# **Author Information**
+
+#### 👤Kshitija Chilbule
+
+### Contact Information:
+- 📞 <b>Phone:</b> 7620424864
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
