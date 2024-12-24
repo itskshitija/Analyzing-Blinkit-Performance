@@ -18,7 +18,6 @@ This analysis aimed to provide a detailed evaluation of Blinkit's sales performa
 #### 👤Kshitija Chilbule
 
 ### Contact Information:
-- 📞 <b>Phone:</b> 7620424864
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
