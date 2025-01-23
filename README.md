@@ -7,7 +7,7 @@
 ## Overview
 This analysis aimed to provide a detailed evaluation of Blinkit's sales performance, customer satisfaction, and inventory distribution, uncovering key insights and optimization opportunities through various KPIs and visualizations in PowerBI.
 
-## For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/analyzing-blinkit-performance-47fdf28bc163)
+# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/analyzing-blinkit-performance-47fdf28bc163)
   
 ## Dashboard Preview
 
